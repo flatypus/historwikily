@@ -6,6 +6,7 @@
 // @match         https://*.wikipedia.org/wiki/*
 // @grant         none
 // @run-at        document-idle
+// @license       MIT 
 // ==/UserScript==
 
 (async function () {
